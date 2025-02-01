@@ -1,0 +1,245 @@
+{
+  "categories": [
+    {
+      "name": "Household Items",
+      "words": [
+        {
+          "eng": "Kettle",
+          "fr": "Bouilloire",
+          "zh": "水壶",
+          "pinyin": "shuǐhú",
+          "audio": "kettle"
+        },
+        {
+          "eng": "Apple",
+          "fr": "Pomme",
+          "zh": "苹果",
+          "pinyin": "píngguǒ",
+          "audio": "apple"
+        }
+      ]
+    },
+    {
+      "name": "Colors",
+      "words": [
+        {
+          "eng": "Red",
+          "fr": "Rouge",
+          "zh": "红色",
+          "pinyin": "hóngsè",
+          "audio": "red"
+        },
+        {
+          "eng": "Blue",
+          "fr": "Bleu",
+          "zh": "蓝色",
+          "pinyin": "lánsè",
+          "audio": "blue"
+        }
+      ]
+    },
+    {
+      "name": "Verbs",
+      "words": [
+        {
+          "eng": "To eat",
+          "fr": "Manger",
+          "zh": "吃",
+          "pinyin": "chī",
+          "it": "Mangiare",
+          "ja": "taberu",
+          "audio": "to_eat"
+        },
+        {
+          "eng": "To drink",
+          "fr": "Boire",
+          "zh": "喝",
+          "pinyin": "hē",
+          "it": "Bere",
+          "ja": "nomu",
+          "audio": "to_drink"
+        },
+        {
+          "eng": "To sleep",
+          "fr": "Dormir",
+          "zh": "睡觉",
+          "pinyin": "shuìjiào",
+          "it": "Dormire",
+          "ja": "neru",
+          "audio": "to_sleep"
+        },
+        {
+          "eng": "To wake",
+          "fr": "Réveiller",
+          "zh": "醒",
+          "pinyin": "xǐng",
+          "it": "Svegliare",
+          "ja": "okiru",
+          "audio": "to_wake"
+        },
+        {
+          "eng": "To go",
+          "fr": "Aller",
+          "zh": "去",
+          "pinyin": "qù",
+          "it": "Andare",
+          "ja": "iku",
+          "audio": "to_go"
+        },
+        {
+          "eng": "To come",
+          "fr": "Venir",
+          "zh": "来",
+          "pinyin": "lái",
+          "it": "Venire",
+          "ja": "kuru",
+          "audio": "to_come"
+        },
+        {
+          "eng": "To walk",
+          "fr": "Marcher",
+          "zh": "走",
+          "pinyin": "zǒu",
+          "it": "Camminare",
+          "ja": "aruku",
+          "audio": "to_walk"
+        },
+        {
+          "eng": "To run",
+          "fr": "Courir",
+          "zh": "跑",
+          "pinyin": "pǎo",
+          "it": "Correre",
+          "ja": "hashiru",
+          "audio": "to_run"
+        },
+        {
+          "eng": "To work",
+          "fr": "Travailler",
+          "zh": "工作",
+          "pinyin": "gōngzuò",
+          "it": "Lavorare",
+          "ja": "hataraku",
+          "audio": "to_work"
+        },
+        {
+          "eng": "To play",
+          "fr": "Jouer",
+          "zh": "玩",
+          "pinyin": "wán",
+          "it": "Giocare",
+          "ja": "asobu",
+          "audio": "to_play"
+        },
+        {
+          "eng": "To talk",
+          "fr": "Parler",
+          "zh": "说",
+          "pinyin": "shuō",
+          "it": "Parlare",
+          "ja": "hanasu",
+          "audio": "to_talk"
+        },
+        {
+          "eng": "To read",
+          "fr": "Lire",
+          "zh": "读",
+          "pinyin": "dú",
+          "it": "Leggere",
+          "ja": "yomu",
+          "audio": "to_read"
+        },
+        {
+          "eng": "To write",
+          "fr": "Écrire",
+          "zh": "写",
+          "pinyin": "xiě",
+          "it": "Scrivere",
+          "ja": "kaku",
+          "audio": "to_write"
+        },
+        {
+          "eng": "To sit",
+          "fr": "S'asseoir",
+          "zh": "坐",
+          "pinyin": "zuò",
+          "it": "Sedersi",
+          "ja": "suwaru",
+          "audio": "to_sit"
+        },
+        {
+          "eng": "To stand",
+          "fr": "Se tenir debout",
+          "zh": "站立",
+          "pinyin": "zhànlì",
+          "it": "Stare in piedi",
+          "ja": "tatsu",
+          "audio": "to_stand"
+        },
+        {
+          "eng": "To watch",
+          "fr": "Regarder",
+          "zh": "看",
+          "pinyin": "kàn",
+          "it": "Guardare",
+          "ja": "miru",
+          "audio": "to_watch"
+        },
+        {
+          "eng": "To listen",
+          "fr": "Écouter",
+          "zh": "听",
+          "pinyin": "tīng",
+          "it": "Ascoltare",
+          "ja": "kiku",
+          "audio": "to_listen"
+        },
+        {
+          "eng": "To open",
+          "fr": "Ouvrir",
+          "zh": "打开",
+          "pinyin": "dǎkāi",
+          "it": "Aprire",
+          "ja": "akeru",
+          "audio": "to_open"
+        },
+        {
+          "eng": "To close",
+          "fr": "Fermer",
+          "zh": "关闭",
+          "pinyin": "guānbì",
+          "it": "Chiudere",
+          "ja": "shimeru",
+          "audio": "to_close"
+        },
+        {
+          "eng": "To think",
+          "fr": "Penser",
+          "zh": "想",
+          "pinyin": "xiǎng",
+          "it": "Pensare",
+          "ja": "kangaeru",
+          "audio": "to_think"
+        },
+        {
+          "eng": "To cook",
+          "fr": "Cuisiner",
+          "zh": "做饭",
+          "pinyin": "zuòfàn",
+          "it": "Cucinare",
+          "ja": "ryōri suru",
+          "audio": "to_cook"
+        },
+        {
+          "eng": "To clean",
+          "fr": "Nettoyer",
+          "zh": "清洁",
+          "pinyin": "qīngjié",
+          "it": "Pulire",
+          "ja": "kirei ni suru",
+          "audio": "to_clean"
+        }
+      ]
+    }
+  ]
+}
