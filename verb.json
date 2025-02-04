@@ -4,12 +4,13 @@
       "name": "Verbs",
       "words": [
         {
-          "eng": "to clean",
+          "eng": "To clean",
           "fr": "Nettoyer",
           "zh": "清洁",
           "pinyin": "qīngjié",
           "it": "Pulire",
-          "ja": "kirei ni suru"
+          "ja": "kirei ni suru",
+          "audio": "to_clean"
         },
         {
           "eng": "To close",
@@ -17,7 +18,8 @@
           "zh": "关闭",
           "pinyin": "guānbì",
           "it": "Chiudere",
-          "ja": "shimeru"
+          "ja": "shimeru",
+          "audio": "to_close"
         },
         {
           "eng": "To come",
@@ -25,7 +27,8 @@
           "zh": "来",
           "pinyin": "lái",
           "it": "Venire",
-          "ja": "kuru"
+          "ja": "kuru",
+          "audio": "to_come"
         },
         {
           "eng": "To cook",
@@ -33,7 +36,8 @@
           "zh": "做饭",
           "pinyin": "zuòfàn",
           "it": "Cucinare",
-          "ja": "ryōri suru"
+          "ja": "ryōri suru",
+          "audio": "to_cook"
         },
         {
           "eng": "To drink",
@@ -41,7 +45,8 @@
           "zh": "喝",
           "pinyin": "hē",
           "it": "Bere",
-          "ja": "nomu"
+          "ja": "nomu",
+          "audio": "to_drink"
         },
         {
           "eng": "To eat",
@@ -49,7 +54,8 @@
           "zh": "吃",
           "pinyin": "chī",
           "it": "Mangiare",
-          "ja": "taberu"
+          "ja": "taberu",
+          "audio": "to_eat"
         },
         {
           "eng": "To go",
@@ -57,7 +63,8 @@
           "zh": "去",
           "pinyin": "qù",
           "it": "Andare",
-          "ja": "iku"
+          "ja": "iku",
+          "audio": "to_go"
         },
         {
           "eng": "To listen",
@@ -65,7 +72,8 @@
           "zh": "听",
           "pinyin": "tīng",
           "it": "Ascoltare",
-          "ja": "kiku"
+          "ja": "kiku",
+          "audio": "to_listen"
         },
         {
           "eng": "To open",
@@ -73,7 +81,8 @@
           "zh": "打开",
           "pinyin": "dǎkāi",
           "it": "Aprire",
-          "ja": "akeru"
+          "ja": "akeru",
+          "audio": "to_open"
         },
         {
           "eng": "To play",
@@ -81,7 +90,8 @@
           "zh": "玩",
           "pinyin": "wán",
           "it": "Giocare",
-          "ja": "asobu"
+          "ja": "asobu",
+          "audio": "to_play"
         },
         {
           "eng": "To read",
@@ -89,7 +99,8 @@
           "zh": "读",
           "pinyin": "dú",
           "it": "Leggere",
-          "ja": "yomu"
+          "ja": "yomu",
+          "audio": "to_read"
         },
         {
           "eng": "To run",
@@ -97,7 +108,8 @@
           "zh": "跑",
           "pinyin": "pǎo",
           "it": "Correre",
-          "ja": "hashiru"
+          "ja": "hashiru",
+          "audio": "to_run"
         },
         {
           "eng": "To sit",
@@ -105,7 +117,8 @@
           "zh": "坐",
           "pinyin": "zuò",
           "it": "Sedersi",
-          "ja": "suwaru"
+          "ja": "suwaru",
+          "audio": "to_sit"
         },
         {
           "eng": "To sleep",
@@ -113,7 +126,8 @@
           "zh": "睡觉",
           "pinyin": "shuìjiào",
           "it": "Dormire",
-          "ja": "neru"
+          "ja": "neru",
+          "audio": "to_sleep"
         },
         {
           "eng": "To stand",
@@ -121,7 +135,8 @@
           "zh": "站立",
           "pinyin": "zhànlì",
           "it": "Stare in piedi",
-          "ja": "tatsu"
+          "ja": "tatsu",
+          "audio": "to_stand"
         },
         {
           "eng": "To talk",
@@ -129,7 +144,8 @@
           "zh": "说",
           "pinyin": "shuō",
           "it": "Parlare",
-          "ja": "hanasu"
+          "ja": "hanasu",
+          "audio": "to_talk"
         },
         {
           "eng": "To think",
@@ -137,7 +153,8 @@
           "zh": "想",
           "pinyin": "xiǎng",
           "it": "Pensare",
-          "ja": "kangaeru"
+          "ja": "kangaeru",
+          "audio": "to_think"
         },
         {
           "eng": "To wake",
@@ -145,7 +162,8 @@
           "zh": "醒",
           "pinyin": "xǐng",
           "it": "Svegliare",
-          "ja": "okiru"
+          "ja": "okiru",
+          "audio": "to_wake"
         },
         {
           "eng": "To walk",
@@ -153,7 +171,8 @@
           "zh": "走",
           "pinyin": "zǒu",
           "it": "Camminare",
-          "ja": "aruku"
+          "ja": "aruku",
+          "audio": "to_walk"
         },
         {
           "eng": "To watch",
@@ -161,7 +180,8 @@
           "zh": "看",
           "pinyin": "kàn",
           "it": "Guardare",
-          "ja": "miru"
+          "ja": "miru",
+          "audio": "to_watch"
         },
         {
           "eng": "To work",
@@ -169,7 +189,8 @@
           "zh": "工作",
           "pinyin": "gōngzuò",
           "it": "Lavorare",
-          "ja": "hataraku"
+          "ja": "hataraku",
+          "audio": "to_work"
         },
         {
           "eng": "To write",
@@ -177,7 +198,8 @@
           "zh": "写",
           "pinyin": "xiě",
           "it": "Scrivere",
-          "ja": "kaku"
+          "ja": "kaku",
+          "audio": "to_write"
         }
       ]
     }
