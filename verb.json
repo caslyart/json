@@ -4,54 +4,14 @@
       "name": "Verbs",
       "words": [
         {
-          "eng": "To eat",
-          "fr": "Manger",
-          "zh": "吃",
-          "pinyin": "chī",
-          "it": "Mangiare",
-          "ja": "食べる",
-          "romaji": "taberu",
-          "audio": "to_eat"
-        },
-        {
-          "eng": "To drink",
-          "fr": "Boire",
-          "zh": "喝",
-          "pinyin": "hē",
-          "it": "Bere",
-          "ja": "飲む",
-          "romaji": "nomu",
-          "audio": "to_drink"
-        },
-        {
-          "eng": "To sleep",
-          "fr": "Dormir",
-          "zh": "睡觉",
-          "pinyin": "shuìjiào",
-          "it": "Dormire",
-          "ja": "寝る",
-          "romaji": "neru",
-          "audio": "to_sleep"
-        },
-        {
-          "eng": "To wake",
-          "fr": "Réveiller",
-          "zh": "醒",
-          "pinyin": "xǐng",
-          "it": "Svegliare",
-          "ja": "起きる",
-          "romaji": "okiru",
-          "audio": "to_wake"
-        },
-        {
-          "eng": "To go",
-          "fr": "Aller",
-          "zh": "去",
-          "pinyin": "qù",
-          "it": "Andare",
-          "ja": "行く",
-          "romaji": "iku",
-          "audio": "to_go"
+          "eng": "To close",
+          "fr": "Fermer",
+          "zh": "关闭",
+          "pinyin": "guānbì",
+          "it": "Chiudere",
+          "ja": "閉める",
+          "romaji": "shimeru",
+          "audio": "to_close"
         },
         {
           "eng": "To come",
@@ -64,104 +24,34 @@
           "audio": "to_come"
         },
         {
-          "eng": "To walk",
-          "fr": "Marcher",
-          "zh": "走",
-          "pinyin": "zǒu",
-          "it": "Camminare",
-          "ja": "歩く",
-          "romaji": "aruku",
-          "audio": "to_walk"
+          "eng": "To drink",
+          "fr": "Boire",
+          "zh": "喝",
+          "pinyin": "hē",
+          "it": "Bere",
+          "ja": "飲む",
+          "romaji": "nomu",
+          "audio": "to_drink"
         },
         {
-          "eng": "To run",
-          "fr": "Courir",
-          "zh": "跑",
-          "pinyin": "pǎo",
-          "it": "Correre",
-          "ja": "走る",
-          "romaji": "hashiru",
-          "audio": "to_run"
+          "eng": "To eat",
+          "fr": "Manger",
+          "zh": "吃",
+          "pinyin": "chī",
+          "it": "Mangiare",
+          "ja": "食べる",
+          "romaji": "taberu",
+          "audio": "to_eat"
         },
         {
-          "eng": "To work",
-          "fr": "Travailler",
-          "zh": "工作",
-          "pinyin": "gōngzuò",
-          "it": "Lavorare",
-          "ja": "働く",
-          "romaji": "hataraku",
-          "audio": "to_work"
-        },
-        {
-          "eng": "To play",
-          "fr": "Jouer",
-          "zh": "玩",
-          "pinyin": "wán",
-          "it": "Giocare",
-          "ja": "遊ぶ",
-          "romaji": "asobu",
-          "audio": "to_play"
-        },
-        {
-          "eng": "To talk",
-          "fr": "Parler",
-          "zh": "说",
-          "pinyin": "shuō",
-          "it": "Parlare",
-          "ja": "話す",
-          "romaji": "hanasu",
-          "audio": "to_talk"
-        },
-        {
-          "eng": "To read",
-          "fr": "Lire",
-          "zh": "读",
-          "pinyin": "dú",
-          "it": "Leggere",
-          "ja": "読む",
-          "romaji": "yomu",
-          "audio": "to_read"
-        },
-        {
-          "eng": "To write",
-          "fr": "Écrire",
-          "zh": "写",
-          "pinyin": "xiě",
-          "it": "Scrivere",
-          "ja": "書く",
-          "romaji": "kaku",
-          "audio": "to_write"
-        },
-        {
-          "eng": "To sit",
-          "fr": "S'asseoir",
-          "zh": "坐",
-          "pinyin": "zuò",
-          "it": "Sedersi",
-          "ja": "座る",
-          "romaji": "suwaru",
-          "audio": "to_sit"
-        },
-        {
-          "eng": "To stand",
-          "fr": "Se tenir debout",
-          "zh": "站立",
-          "pinyin": "zhànlì",
-          "it": "Stare in piedi",
-          "ja": "立つ",
-          "romaji": "tatsu",
-          "audio": "to_stand"
-        },
-        {
-          "eng": "To watch",
-          "fr": "Regarder",
-          "zh": "看",
-          "pinyin": "kàn",
-          "it": "Guardare",
-          "ja": "見る",
-          "romaji": "miru",
-          "audio": "to_watch"
+          "eng": "To go",
+          "fr": "Aller",
+          "zh": "去",
+          "pinyin": "qù",
+          "it": "Andare",
+          "ja": "行く",
+          "romaji": "iku",
+          "audio": "to_go"
         },
         {
           "eng": "To listen",
@@ -184,14 +74,74 @@
           "audio": "to_open"
         },
         {
-          "eng": "To close",
-          "fr": "Fermer",
-          "zh": "关闭",
-          "pinyin": "guānbì",
-          "it": "Chiudere",
-          "ja": "閉める",
-          "romaji": "shimeru",
-          "audio": "to_close"
+          "eng": "To play",
+          "fr": "Jouer",
+          "zh": "玩",
+          "pinyin": "wán",
+          "it": "Giocare",
+          "ja": "遊ぶ",
+          "romaji": "asobu",
+          "audio": "to_play"
+        },
+        {
+          "eng": "To read",
+          "fr": "Lire",
+          "zh": "读",
+          "pinyin": "dú",
+          "it": "Leggere",
+          "ja": "読む",
+          "romaji": "yomu",
+          "audio": "to_read"
+        },
+        {
+          "eng": "To run",
+          "fr": "Courir",
+          "zh": "跑",
+          "pinyin": "pǎo",
+          "it": "Correre",
+          "ja": "走る",
+          "romaji": "hashiru",
+          "audio": "to_run"
+        },
+        {
+          "eng": "To sit",
+          "fr": "S'asseoir",
+          "zh": "坐",
+          "pinyin": "zuò",
+          "it": "Sedersi",
+          "ja": "座る",
+          "romaji": "suwaru",
+          "audio": "to_sit"
+        },
+        {
+          "eng": "To sleep",
+          "fr": "Dormir",
+          "zh": "睡觉",
+          "pinyin": "shuìjiào",
+          "it": "Dormire",
+          "ja": "寝る",
+          "romaji": "neru",
+          "audio": "to_sleep"
+        },
+        {
+          "eng": "To stand",
+          "fr": "Se tenir debout",
+          "zh": "站立",
+          "pinyin": "zhànlì",
+          "it": "Stare in piedi",
+          "ja": "立つ",
+          "romaji": "tatsu",
+          "audio": "to_stand"
+        },
+        {
+          "eng": "To talk",
+          "fr": "Parler",
+          "zh": "说",
+          "pinyin": "shuō",
+          "it": "Parlare",
+          "ja": "話す",
+          "romaji": "hanasu",
+          "audio": "to_talk"
         },
         {
           "eng": "To think",
@@ -202,6 +152,56 @@
           "ja": "考える",
           "romaji": "kangaeru",
           "audio": "to_think"
+        },
+        {
+          "eng": "To wake",
+          "fr": "Réveiller",
+          "zh": "醒",
+          "pinyin": "xǐng",
+          "it": "Svegliare",
+          "ja": "起きる",
+          "romaji": "okiru",
+          "audio": "to_wake"
+        },
+        {
+          "eng": "To walk",
+          "fr": "Marcher",
+          "zh": "走",
+          "pinyin": "zǒu",
+          "it": "Camminare",
+          "ja": "歩く",
+          "romaji": "aruku",
+          "audio": "to_walk"
+        },
+        {
+          "eng": "To watch",
+          "fr": "Regarder",
+          "zh": "看",
+          "pinyin": "kàn",
+          "it": "Guardare",
+          "ja": "見る",
+          "romaji": "miru",
+          "audio": "to_watch"
+        },
+        {
+          "eng": "To work",
+          "fr": "Travailler",
+          "zh": "工作",
+          "pinyin": "gōngzuò",
+          "it": "Lavorare",
+          "ja": "働く",
+          "romaji": "hataraku",
+          "audio": "to_work"
+        },
+        {
+          "eng": "To write",
+          "fr": "Écrire",
+          "zh": "写",
+          "pinyin": "xiě",
+          "it": "Scrivere",
+          "ja": "書く",
+          "romaji": "kaku",
+          "audio": "to_write"
         }
       ]
     }
