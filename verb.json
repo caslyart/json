@@ -4,6 +4,16 @@
       "name": "Verbs",
       "words": [
         {
+          "eng": "To clean",
+          "fr": "Nettoyer",
+          "zh": "清理",
+          "pinyin": "qīnglǐ",
+          "it": "Pulire",
+          "ja": "掃除する",
+          "romaji": "souji suru",
+          "audio": "to_clean"
+        },
+        {
           "eng": "To close",
           "fr": "Fermer",
           "zh": "关闭",
@@ -22,6 +32,16 @@
           "ja": "来る",
           "romaji": "kuru",
           "audio": "to_come"
+        },
+        {
+          "eng": "To cook",
+          "fr": "Cuisiner",
+          "zh": "做饭",
+          "pinyin": "zuòfàn",
+          "it": "Cucinare",
+          "ja": "料理する",
+          "romaji": "ryōri suru",
+          "audio": "to_cook"
         },
         {
           "eng": "To drink",
