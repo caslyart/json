@@ -193,6 +193,8 @@
           "fr": "Père",
           "zh": "父亲",
           "pinyin": "fùqīn",
+          "ja": "父親",
+          "romaji": "chichi",
           "audio": "father"
         },
         {
@@ -200,6 +202,8 @@
           "fr": "Mère",
           "zh": "母亲",
           "pinyin": "mǔqīn",
+          "ja": "母親",
+          "romaji": "haha",
           "audio": "mother"
         },
         {
@@ -207,6 +211,8 @@
           "fr": "Parent",
           "zh": "父母",
           "pinyin": "fùmǔ",
+          "ja": "親",
+          "romaji": "oya",
           "audio": "parent"
         },
         {
@@ -214,6 +220,8 @@
           "fr": "Fils",
           "zh": "儿子",
           "pinyin": "érzi",
+          "ja": "息子",
+          "romaji": "musuko",
           "audio": "son"
         },
         {
@@ -221,6 +229,8 @@
           "fr": "Fille",
           "zh": "女儿",
           "pinyin": "nǚ'ér",
+          "ja": "娘",
+          "romaji": "musume",
           "audio": "daughter"
         },
         {
@@ -228,6 +238,8 @@
           "fr": "Frère",
           "zh": "兄弟",
           "pinyin": "xiōngdì",
+          "ja": "兄",
+          "romaji": "ani",
           "audio": "brother"
         },
         {
@@ -235,6 +247,8 @@
           "fr": "Sœur",
           "zh": "姐妹",
           "pinyin": "jiěmèi",
+          "ja": "姉妹",
+          "romaji": "shimai",
           "audio": "sister"
         },
         {
@@ -242,6 +256,8 @@
           "fr": "Grand-père",
           "zh": "爷爷",
           "pinyin": "yéye",
+          "ja": "祖父",
+          "romaji": "sofu",
           "audio": "grandfather"
         },
         {
@@ -249,6 +265,8 @@
           "fr": "Grand-mère",
           "zh": "奶奶",
           "pinyin": "nǎinai",
+          "ja": "祖母",
+          "romaji": "sobo",
           "audio": "grandmother"
         },
         {
@@ -256,6 +274,8 @@
           "fr": "Grands-parents",
           "zh": "祖父母",
           "pinyin": "zǔfùmǔ",
+          "ja": "祖父母",
+          "romaji": "sofubo",
           "audio": "grandparents"
         },
         {
@@ -263,6 +283,8 @@
           "fr": "Oncle",
           "zh": "叔叔",
           "pinyin": "shūshu",
+          "ja": "叔父",
+          "romaji": "ojisan",
           "audio": "uncle"
         },
         {
@@ -270,6 +292,8 @@
           "fr": "Tante",
           "zh": "阿姨",
           "pinyin": "āyí",
+          "ja": "叔母",
+          "romaji": "oba",
           "audio": "aunt"
         },
         {
@@ -277,6 +301,8 @@
           "fr": "Cousin/Cousine",
           "zh": "表亲",
           "pinyin": "biǎoqīn",
+          "ja": "いとこ",
+          "romaji": "itoko",
           "audio": "cousin"
         },
         {
@@ -284,6 +310,8 @@
           "fr": "Neveu",
           "zh": "侄子",
           "pinyin": "zhízi",
+          "ja": "甥",
+          "romaji": "oi",
           "audio": "nephew"
         },
         {
@@ -291,6 +319,8 @@
           "fr": "Nièce",
           "zh": "侄女",
           "pinyin": "zhínǚ",
+          "ja": "姪",
+          "romaji": "mei",
           "audio": "niece"
         },
         {
@@ -298,6 +328,8 @@
           "fr": "Mari",
           "zh": "丈夫",
           "pinyin": "zhàngfū",
+          "ja": "夫",
+          "romaji": "otto",
           "audio": "husband"
         },
         {
@@ -305,6 +337,8 @@
           "fr": "Femme",
           "zh": "妻子",
           "pinyin": "qīzi",
+          "ja": "妻",
+          "romaji": "tsuma",
           "audio": "wife"
         },
         {
@@ -312,6 +346,8 @@
           "fr": "Enfant",
           "zh": "孩子",
           "pinyin": "háizi",
+          "ja": "子供",
+          "romaji": "kodomo",
           "audio": "child"
         },
         {
@@ -319,6 +355,8 @@
           "fr": "Fratrie",
           "zh": "兄妹",
           "pinyin": "xiōngmèi",
+          "ja": "兄妹",
+          "romaji": "kyōdai",
           "audio": "sibling"
         },
         {
@@ -326,6 +364,8 @@
           "fr": "Parenté",
           "zh": "亲戚",
           "pinyin": "qīnqì",
+          "ja": "親戚",
+          "romaji": "shinseki",
           "audio": "relative"
         }
       ]
