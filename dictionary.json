@@ -1,187 +1,187 @@
 {
   "categories": [
     {
-      "name": "Electronics",
+      "name": "Household Items",
       "words": [
         {
-          "eng": "Phone",
-          "fr": "Téléphone",
-          "zh": "电话",
-          "pinyin": "diànhuà",
-          "ja": "電話",
-          "romaji": "denwa",
-          "audio": "phone"
+          "eng": "Kettle",
+          "fr": "Bouilloire",
+          "zh": "水壶",
+          "pinyin": "shuǐhú",
+          "ja": "やかん",
+          "romaji": "yakan",
+          "audio": "kettle"
         },
         {
-          "eng": "Smartphone",
-          "fr": "Smartphone",
-          "zh": "智能手机",
-          "pinyin": "zhìnéng shǒujī",
-          "ja": "スマートフォン",
-          "romaji": "sumātofon",
-          "audio": "smartphone"
+          "eng": "Apple",
+          "fr": "Pomme",
+          "zh": "苹果",
+          "pinyin": "píngguǒ",
+          "ja": "りんご",
+          "romaji": "ringo",
+          "audio": "apple"
         },
         {
-          "eng": "Computer",
-          "fr": "Ordinateur",
-          "zh": "电脑",
-          "pinyin": "diànnǎo",
-          "ja": "コンピューター",
-          "romaji": "konpyūtā",
-          "audio": "computer"
+          "eng": "Chair",
+          "fr": "Chaise",
+          "zh": "椅子",
+          "pinyin": "yǐzi",
+          "ja": "いす",
+          "romaji": "isu",
+          "audio": "chair"
         },
         {
-          "eng": "Laptop",
-          "fr": "Portable",
-          "zh": "笔记本电脑",
-          "pinyin": "bǐjìběn diànnǎo",
-          "ja": "ノートパソコン",
-          "romaji": "nōto pasokon",
-          "audio": "laptop"
+          "eng": "Table",
+          "fr": "Table",
+          "zh": "桌子",
+          "pinyin": "zhuōzi",
+          "ja": "テーブル",
+          "romaji": "tēburu",
+          "audio": "table"
         },
         {
-          "eng": "Tablet",
-          "fr": "Tablette",
-          "zh": "平板",
-          "pinyin": "píngbǎn",
-          "ja": "タブレット",
-          "romaji": "taburetto",
-          "audio": "tablet"
+          "eng": "Spoon",
+          "fr": "Cuillère",
+          "zh": "勺子",
+          "pinyin": "sháozi",
+          "ja": "スプーン",
+          "romaji": "supūn",
+          "audio": "spoon"
         },
         {
-          "eng": "Television",
-          "fr": "Télévision",
-          "zh": "电视",
-          "pinyin": "diànshì",
-          "ja": "テレビ",
-          "romaji": "terebi",
-          "audio": "television"
+          "eng": "Fork",
+          "fr": "Fourchette",
+          "zh": "叉子",
+          "pinyin": "chāzi",
+          "ja": "フォーク",
+          "romaji": "fōku",
+          "audio": "fork"
         },
         {
-          "eng": "Remote",
-          "fr": "Télécommande",
-          "zh": "遥控器",
-          "pinyin": "yáokòngqì",
-          "ja": "リモコン",
-          "romaji": "rimokon",
-          "audio": "remote"
+          "eng": "Knife",
+          "fr": "Couteau",
+          "zh": "刀",
+          "pinyin": "dāo",
+          "ja": "ナイフ",
+          "romaji": "naifu",
+          "audio": "knife"
         },
         {
-          "eng": "Speaker",
-          "fr": "Haut-parleur",
-          "zh": "扬声器",
-          "pinyin": "yángshēngqì",
-          "ja": "スピーカー",
-          "romaji": "supīkā",
-          "audio": "speaker"
+          "eng": "Plate",
+          "fr": "Assiette",
+          "zh": "盘子",
+          "pinyin": "pánzi",
+          "ja": "さら",
+          "romaji": "sara",
+          "audio": "plate"
         },
         {
-          "eng": "Headphones",
-          "fr": "Casque",
-          "zh": "耳机",
-          "pinyin": "ěrjī",
-          "ja": "ヘッドフォン",
-          "romaji": "heddofon",
-          "audio": "headphones"
+          "eng": "Cup",
+          "fr": "Tasse",
+          "zh": "杯子",
+          "pinyin": "bēizi",
+          "ja": "カップ",
+          "romaji": "kappu",
+          "audio": "cup"
         },
         {
-          "eng": "Microphone",
-          "fr": "Microphone",
-          "zh": "麦克风",
-          "pinyin": "màikèfēng",
-          "ja": "マイク",
-          "romaji": "maiku",
-          "audio": "microphone"
+          "eng": "Pot",
+          "fr": "Casserole",
+          "zh": "锅",
+          "pinyin": "guō",
+          "ja": "なべ",
+          "romaji": "nabe",
+          "audio": "pot"
         },
         {
-          "eng": "Charger",
-          "fr": "Chargeur",
-          "zh": "充电器",
-          "pinyin": "chōngdiànqì",
-          "ja": "充電器",
-          "romaji": "jūdenki",
-          "audio": "charger"
+          "eng": "Pan",
+          "fr": "Poêle",
+          "zh": "煎锅",
+          "pinyin": "jiānguō",
+          "ja": "フライパン",
+          "romaji": "furaipan",
+          "audio": "pan"
         },
         {
-          "eng": "Battery",
-          "fr": "Batterie",
-          "zh": "电池",
-          "pinyin": "diànchí",
-          "ja": "電池",
-          "romaji": "denchi",
-          "audio": "battery"
+          "eng": "Broom",
+          "fr": "Balai",
+          "zh": "扫帚",
+          "pinyin": "sàozhǒu",
+          "ja": "ほうき",
+          "romaji": "hōki",
+          "audio": "broom"
         },
         {
-          "eng": "Cable",
-          "fr": "Câble",
-          "zh": "电缆",
-          "pinyin": "diànlǎn",
-          "ja": "ケーブル",
-          "romaji": "kēburu",
-          "audio": "cable"
+          "eng": "Vacuum",
+          "fr": "Aspirateur",
+          "zh": "吸尘器",
+          "pinyin": "xīchénqì",
+          "ja": "そうじき",
+          "romaji": "sōjiki",
+          "audio": "vacuum"
         },
         {
-          "eng": "USB",
-          "fr": "USB",
-          "zh": "USB",
-          "pinyin": "USB",
-          "ja": "USB",
-          "romaji": "yū esu bī",
-          "audio": "usb"
+          "eng": "Bed",
+          "fr": "Lit",
+          "zh": "床",
+          "pinyin": "chuáng",
+          "ja": "ベッド",
+          "romaji": "beddo",
+          "audio": "bed"
         },
         {
-          "eng": "Monitor",
-          "fr": "Écran",
-          "zh": "显示器",
-          "pinyin": "xiǎnshìqì",
-          "ja": "モニター",
-          "romaji": "monitā",
-          "audio": "monitor"
+          "eng": "Pillow",
+          "fr": "Oreiller",
+          "zh": "枕头",
+          "pinyin": "zhěntou",
+          "ja": "まくら",
+          "romaji": "makura",
+          "audio": "pillow"
         },
         {
-          "eng": "Keyboard",
-          "fr": "Clavier",
-          "zh": "键盘",
-          "pinyin": "jiànpán",
-          "ja": "キーボード",
-          "romaji": "kībōdo",
-          "audio": "keyboard"
+          "eng": "Blanket",
+          "fr": "Couverture",
+          "zh": "毯子",
+          "pinyin": "tǎnzi",
+          "ja": "もうふ",
+          "romaji": "mōfu",
+          "audio": "blanket"
         },
         {
-          "eng": "Mouse",
-          "fr": "Souris",
-          "zh": "鼠标",
-          "pinyin": "shǔbiāo",
-          "ja": "マウス",
-          "romaji": "mausu",
-          "audio": "mouse"
+          "eng": "Lamp",
+          "fr": "Lampe",
+          "zh": "灯",
+          "pinyin": "dēng",
+          "ja": "ランプ",
+          "romaji": "ranpu",
+          "audio": "lamp"
         },
         {
-          "eng": "Camera",
-          "fr": "Appareil photo",
-          "zh": "相机",
-          "pinyin": "xiàngjī",
-          "ja": "カメラ",
-          "romaji": "kamera",
-          "audio": "camera"
+          "eng": "Curtains",
+          "fr": "Rideaux",
+          "zh": "窗帘",
+          "pinyin": "chuānglián",
+          "ja": "カーテン",
+          "romaji": "kāten",
+          "audio": "curtains"
         },
         {
-          "eng": "Game Console",
-          "fr": "Console de jeu",
-          "zh": "游戏机",
-          "pinyin": "yóuxìjī",
-          "ja": "ゲーム機",
-          "romaji": "gēmu ki",
-          "audio": "game_console"
+          "eng": "Mirror",
+          "fr": "Miroir",
+          "zh": "镜子",
+          "pinyin": "jìngzi",
+          "ja": "かがみ",
+          "romaji": "kagami",
+          "audio": "mirror"
         },
         {
-          "eng": "Smartwatch",
-          "fr": "Montre connectée",
-          "zh": "智能手表",
-          "pinyin": "zhìnéng shǒubiǎo",
-          "ja": "スマートウォッチ",
-          "romaji": "sumāto wotchi",
-          "audio": "smartwatch"
+          "eng": "Clock",
+          "fr": "Horloge",
+          "zh": "钟",
+          "pinyin": "zhōng",
+          "ja": "とけい",
+          "romaji": "tokei",
+          "audio": "clock"
         }
       ]
     },
