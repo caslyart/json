@@ -144,7 +144,155 @@
           "audio": "clock"
         }
       ]
+    },
+    {
+      "name": "Family",
+      "words": [
+        {
+          "eng": "Father",
+          "fr": "Père",
+          "zh": "父亲",
+          "pinyin": "fùqīn",
+          "audio": "father"
+        },
+        {
+          "eng": "Mother",
+          "fr": "Mère",
+          "zh": "母亲",
+          "pinyin": "mǔqīn",
+          "audio": "mother"
+        },
+        {
+          "eng": "Parent",
+          "fr": "Parent",
+          "zh": "父母",
+          "pinyin": "fùmǔ",
+          "audio": "parent"
+        },
+        {
+          "eng": "Son",
+          "fr": "Fils",
+          "zh": "儿子",
+          "pinyin": "érzi",
+          "audio": "son"
+        },
+        {
+          "eng": "Daughter",
+          "fr": "Fille",
+          "zh": "女儿",
+          "pinyin": "nǚ'ér",
+          "audio": "daughter"
+        },
+        {
+          "eng": "Brother",
+          "fr": "Frère",
+          "zh": "兄弟",
+          "pinyin": "xiōngdì",
+          "audio": "brother"
+        },
+        {
+          "eng": "Sister",
+          "fr": "Sœur",
+          "zh": "姐妹",
+          "pinyin": "jiěmèi",
+          "audio": "sister"
+        },
+        {
+          "eng": "Grandfather",
+          "fr": "Grand-père",
+          "zh": "爷爷",
+          "pinyin": "yéye",
+          "audio": "grandfather"
+        },
+        {
+          "eng": "Grandmother",
+          "fr": "Grand-mère",
+          "zh": "奶奶",
+          "pinyin": "nǎinai",
+          "audio": "grandmother"
+        },
+        {
+          "eng": "Grandparents",
+          "fr": "Grands-parents",
+          "zh": "祖父母",
+          "pinyin": "zǔfùmǔ",
+          "audio": "grandparents"
+        },
+        {
+          "eng": "Uncle",
+          "fr": "Oncle",
+          "zh": "叔叔",
+          "pinyin": "shūshu",
+          "audio": "uncle"
+        },
+        {
+          "eng": "Aunt",
+          "fr": "Tante",
+          "zh": "阿姨",
+          "pinyin": "āyí",
+          "audio": "aunt"
+        },
+        {
+          "eng": "Cousin",
+          "fr": "Cousin/Cousine",
+          "zh": "表亲",
+          "pinyin": "biǎoqīn",
+          "audio": "cousin"
+        },
+        {
+          "eng": "Nephew",
+          "fr": "Neveu",
+          "zh": "侄子",
+          "pinyin": "zhízi",
+          "audio": "nephew"
+        },
+        {
+          "eng": "Niece",
+          "fr": "Nièce",
+          "zh": "侄女",
+          "pinyin": "zhínǚ",
+          "audio": "niece"
+        },
+        {
+          "eng": "Husband",
+          "fr": "Mari",
+          "zh": "丈夫",
+          "pinyin": "zhàngfū",
+          "audio": "husband"
+        },
+        {
+          "eng": "Wife",
+          "fr": "Femme",
+          "zh": "妻子",
+          "pinyin": "qīzi",
+          "audio": "wife"
+        },
+        {
+          "eng": "Child",
+          "fr": "Enfant",
+          "zh": "孩子",
+          "pinyin": "háizi",
+          "audio": "child"
+        },
+        {
+          "eng": "Sibling",
+          "fr": "Fratrie",
+          "zh": "兄妹",
+          "pinyin": "xiōngmèi",
+          "audio": "sibling"
+        },
+        {
+          "eng": "Relative",
+          "fr": "Parenté",
+          "zh": "亲戚",
+          "pinyin": "qīnqì",
+          "audio": "relative"
+        }
+      ]
     }
+  ]
+}
+    
   ]
 }
 
