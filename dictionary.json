@@ -10,6 +10,7 @@
           "pinyin": "shuǐhú",
           "ja": "やかん",
           "romaji": "yakan",
+          "it": "Bollitore",
           "audio": "kettle"
         },
         {
@@ -19,6 +20,7 @@
           "pinyin": "píngguǒ",
           "ja": "りんご",
           "romaji": "ringo",
+          "it": "Mela",
           "audio": "apple"
         },
         {
@@ -28,6 +30,7 @@
           "pinyin": "yǐzi",
           "ja": "いす",
           "romaji": "isu",
+          "it": "Sedia",
           "audio": "chair"
         },
         {
@@ -37,6 +40,7 @@
           "pinyin": "zhuōzi",
           "ja": "テーブル",
           "romaji": "tēburu",
+          "it": "Tavolo",
           "audio": "table"
         },
         {
@@ -46,6 +50,7 @@
           "pinyin": "sháozi",
           "ja": "スプーン",
           "romaji": "supūn",
+          "it": "Cucchiaio",
           "audio": "spoon"
         },
         {
@@ -55,6 +60,7 @@
           "pinyin": "chāzi",
           "ja": "フォーク",
           "romaji": "fōku",
+          "it": "Forchetta",
           "audio": "fork"
         },
         {
@@ -64,6 +70,7 @@
           "pinyin": "dāo",
           "ja": "ナイフ",
           "romaji": "naifu",
+          "it": "Coltello",
           "audio": "knife"
         },
         {
@@ -73,6 +80,7 @@
           "pinyin": "pánzi",
           "ja": "さら",
           "romaji": "sara",
+          "it": "Piatto",
           "audio": "plate"
         },
         {
@@ -82,6 +90,7 @@
           "pinyin": "bēizi",
           "ja": "カップ",
           "romaji": "kappu",
+          "it": "Tazza",
           "audio": "cup"
         },
         {
@@ -91,6 +100,7 @@
           "pinyin": "guō",
           "ja": "なべ",
           "romaji": "nabe",
+          "it": "Pentola",
           "audio": "pot"
         },
         {
@@ -100,6 +110,7 @@
           "pinyin": "jiānguō",
           "ja": "フライパン",
           "romaji": "furaipan",
+          "it": "Padella",
           "audio": "pan"
         },
         {
@@ -109,6 +120,7 @@
           "pinyin": "sàozhǒu",
           "ja": "ほうき",
           "romaji": "hōki",
+          "it": "Scopa",
           "audio": "broom"
         },
         {
@@ -118,6 +130,7 @@
           "pinyin": "xīchénqì",
           "ja": "そうじき",
           "romaji": "sōjiki",
+          "it": "Aspirapolvere",
           "audio": "vacuum"
         },
         {
@@ -127,6 +140,7 @@
           "pinyin": "chuáng",
           "ja": "ベッド",
           "romaji": "beddo",
+          "it": "Letto",
           "audio": "bed"
         },
         {
@@ -136,6 +150,7 @@
           "pinyin": "zhěntou",
           "ja": "まくら",
           "romaji": "makura",
+          "it": "Cuscino",
           "audio": "pillow"
         },
         {
@@ -145,6 +160,7 @@
           "pinyin": "tǎnzi",
           "ja": "もうふ",
           "romaji": "mōfu",
+          "it": "Coperta",
           "audio": "blanket"
         },
         {
@@ -154,6 +170,7 @@
           "pinyin": "dēng",
           "ja": "ランプ",
           "romaji": "ranpu",
+          "it": "Lampada",
           "audio": "lamp"
         },
         {
@@ -163,6 +180,7 @@
           "pinyin": "chuānglián",
           "ja": "カーテン",
           "romaji": "kāten",
+          "it": "Tende",
           "audio": "curtains"
         },
         {
@@ -172,6 +190,7 @@
           "pinyin": "jìngzi",
           "ja": "かがみ",
           "romaji": "kagami",
+          "it": "Specchio",
           "audio": "mirror"
         },
         {
@@ -181,6 +200,7 @@
           "pinyin": "zhōng",
           "ja": "とけい",
           "romaji": "tokei",
+          "it": "Orologio",
           "audio": "clock"
         }
       ]
