@@ -1,1 +1,150 @@
+{
+  "categories": [
+    {
+      "name": "Household Items",
+      "words": [
+        {
+          "eng": "Kettle",
+          "fr": "Bouilloire",
+          "zh": "水壶",
+          "pinyin": "shuǐhú",
+          "audio": "kettle"
+        },
+        {
+          "eng": "Apple",
+          "fr": "Pomme",
+          "zh": "苹果",
+          "pinyin": "píngguǒ",
+          "audio": "apple"
+        },
+        {
+          "eng": "Chair",
+          "fr": "Chaise",
+          "zh": "椅子",
+          "pinyin": "yǐzi",
+          "audio": "chair"
+        },
+        {
+          "eng": "Table",
+          "fr": "Table",
+          "zh": "桌子",
+          "pinyin": "zhuōzi",
+          "audio": "table"
+        },
+        {
+          "eng": "Spoon",
+          "fr": "Cuillère",
+          "zh": "勺子",
+          "pinyin": "sháozi",
+          "audio": "spoon"
+        },
+        {
+          "eng": "Fork",
+          "fr": "Fourchette",
+          "zh": "叉子",
+          "pinyin": "chāzi",
+          "audio": "fork"
+        },
+        {
+          "eng": "Knife",
+          "fr": "Couteau",
+          "zh": "刀",
+          "pinyin": "dāo",
+          "audio": "knife"
+        },
+        {
+          "eng": "Plate",
+          "fr": "Assiette",
+          "zh": "盘子",
+          "pinyin": "pánzi",
+          "audio": "plate"
+        },
+        {
+          "eng": "Cup",
+          "fr": "Tasse",
+          "zh": "杯子",
+          "pinyin": "bēizi",
+          "audio": "cup"
+        },
+        {
+          "eng": "Pot",
+          "fr": "Casserole",
+          "zh": "锅",
+          "pinyin": "guō",
+          "audio": "pot"
+        },
+        {
+          "eng": "Pan",
+          "fr": "Poêle",
+          "zh": "煎锅",
+          "pinyin": "jiānguō",
+          "audio": "pan"
+        },
+        {
+          "eng": "Broom",
+          "fr": "Balai",
+          "zh": "扫帚",
+          "pinyin": "sàozhǒu",
+          "audio": "broom"
+        },
+        {
+          "eng": "Vacuum",
+          "fr": "Aspirateur",
+          "zh": "吸尘器",
+          "pinyin": "xīchénqì",
+          "audio": "vacuum"
+        },
+        {
+          "eng": "Bed",
+          "fr": "Lit",
+          "zh": "床",
+          "pinyin": "chuáng",
+          "audio": "bed"
+        },
+        {
+          "eng": "Pillow",
+          "fr": "Oreiller",
+          "zh": "枕头",
+          "pinyin": "zhěntou",
+          "audio": "pillow"
+        },
+        {
+          "eng": "Blanket",
+          "fr": "Couverture",
+          "zh": "毯子",
+          "pinyin": "tǎnzi",
+          "audio": "blanket"
+        },
+        {
+          "eng": "Lamp",
+          "fr": "Lampe",
+          "zh": "灯",
+          "pinyin": "dēng",
+          "audio": "lamp"
+        },
+        {
+          "eng": "Curtains",
+          "fr": "Rideaux",
+          "zh": "窗帘",
+          "pinyin": "chuānglián",
+          "audio": "curtains"
+        },
+        {
+          "eng": "Mirror",
+          "fr": "Miroir",
+          "zh": "镜子",
+          "pinyin": "jìngzi",
+          "audio": "mirror"
+        },
+        {
+          "eng": "Clock",
+          "fr": "Horloge",
+          "zh": "钟",
+          "pinyin": "zhōng",
+          "audio": "clock"
+        }
+      ]
+    }
+  ]
+}
 
