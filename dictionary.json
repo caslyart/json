@@ -205,12 +205,15 @@
         }
       ]
     },
+{
+  "categories": [
     {
       "name": "Family",
       "words": [
         {
           "eng": "Father",
           "fr": "Père",
+          "it": "Padre",
           "zh": "父亲",
           "pinyin": "fùqīn",
           "ja": "父親",
@@ -220,6 +223,7 @@
         {
           "eng": "Mother",
           "fr": "Mère",
+          "it": "Madre",
           "zh": "母亲",
           "pinyin": "mǔqīn",
           "ja": "母親",
@@ -229,6 +233,7 @@
         {
           "eng": "Parent",
           "fr": "Parent",
+          "it": "Genitore",
           "zh": "父母",
           "pinyin": "fùmǔ",
           "ja": "親",
@@ -238,6 +243,7 @@
         {
           "eng": "Son",
           "fr": "Fils",
+          "it": "Figlio",
           "zh": "儿子",
           "pinyin": "érzi",
           "ja": "息子",
@@ -247,6 +253,7 @@
         {
           "eng": "Daughter",
           "fr": "Fille",
+          "it": "Figlia",
           "zh": "女儿",
           "pinyin": "nǚ'ér",
           "ja": "娘",
@@ -256,6 +263,7 @@
         {
           "eng": "Brother",
           "fr": "Frère",
+          "it": "Fratello",
           "zh": "兄弟",
           "pinyin": "xiōngdì",
           "ja": "兄",
@@ -265,6 +273,7 @@
         {
           "eng": "Sister",
           "fr": "Sœur",
+          "it": "Sorella",
           "zh": "姐妹",
           "pinyin": "jiěmèi",
           "ja": "姉妹",
@@ -274,6 +283,7 @@
         {
           "eng": "Grandfather",
           "fr": "Grand-père",
+          "it": "Nonno",
           "zh": "爷爷",
           "pinyin": "yéye",
           "ja": "祖父",
@@ -283,6 +293,7 @@
         {
           "eng": "Grandmother",
           "fr": "Grand-mère",
+          "it": "Nonna",
           "zh": "奶奶",
           "pinyin": "nǎinai",
           "ja": "祖母",
@@ -292,6 +303,7 @@
         {
           "eng": "Grandparents",
           "fr": "Grands-parents",
+          "it": "Nonni",
           "zh": "祖父母",
           "pinyin": "zǔfùmǔ",
           "ja": "祖父母",
@@ -301,6 +313,7 @@
         {
           "eng": "Uncle",
           "fr": "Oncle",
+          "it": "Zio",
           "zh": "叔叔",
           "pinyin": "shūshu",
           "ja": "叔父",
@@ -310,6 +323,7 @@
         {
           "eng": "Aunt",
           "fr": "Tante",
+          "it": "Zia",
           "zh": "阿姨",
           "pinyin": "āyí",
           "ja": "叔母",
@@ -319,6 +333,7 @@
         {
           "eng": "Cousin",
           "fr": "Cousin/Cousine",
+          "it": "Cugino/Cugina",
           "zh": "表亲",
           "pinyin": "biǎoqīn",
           "ja": "いとこ",
@@ -328,6 +343,7 @@
         {
           "eng": "Nephew",
           "fr": "Neveu",
+          "it": "Nipote",
           "zh": "侄子",
           "pinyin": "zhízi",
           "ja": "甥",
@@ -337,6 +353,7 @@
         {
           "eng": "Niece",
           "fr": "Nièce",
+          "it": "Nipote",
           "zh": "侄女",
           "pinyin": "zhínǚ",
           "ja": "姪",
@@ -346,6 +363,7 @@
         {
           "eng": "Husband",
           "fr": "Mari",
+          "it": "Marito",
           "zh": "丈夫",
           "pinyin": "zhàngfū",
           "ja": "夫",
@@ -355,6 +373,7 @@
         {
           "eng": "Wife",
           "fr": "Femme",
+          "it": "Moglie",
           "zh": "妻子",
           "pinyin": "qīzi",
           "ja": "妻",
@@ -364,6 +383,7 @@
         {
           "eng": "Child",
           "fr": "Enfant",
+          "it": "Bambino/Bambina",
           "zh": "孩子",
           "pinyin": "háizi",
           "ja": "子供",
@@ -373,6 +393,7 @@
         {
           "eng": "Sibling",
           "fr": "Fratrie",
+          "it": "Fratello/Sorella",
           "zh": "兄妹",
           "pinyin": "xiōngmèi",
           "ja": "兄妹",
@@ -382,6 +403,7 @@
         {
           "eng": "Relative",
           "fr": "Parenté",
+          "it": "Parente",
           "zh": "亲戚",
           "pinyin": "qīnqì",
           "ja": "親戚",
@@ -400,7 +422,8 @@
           "pinyin": "diànhuà",
           "audio": "phone",
           "ja": "電話",
-          "romaji": "denwa"
+          "romaji": "denwa",
+          "it": "Telefono"
         },
         {
           "eng": "Smartphone",
@@ -409,7 +432,8 @@
           "pinyin": "zhìnéng shǒujī",
           "audio": "smartphone",
           "ja": "スマートフォン",
-          "romaji": "sumātofon"
+          "romaji": "sumātofon",
+          "it": "Smartphone"
         },
         {
           "eng": "Computer",
@@ -418,7 +442,8 @@
           "pinyin": "diànnǎo",
           "audio": "computer",
           "ja": "コンピュータ",
-          "romaji": "konpyūta"
+          "romaji": "konpyūta",
+          "it": "Computer"
         },
         {
           "eng": "Laptop",
@@ -427,7 +452,8 @@
           "pinyin": "bǐjìběn diànnǎo",
           "audio": "laptop",
           "ja": "ノートパソコン",
-          "romaji": "nōto pasokon"
+          "romaji": "nōto pasokon",
+          "it": "Portatile"
         },
         {
           "eng": "Tablet",
@@ -436,7 +462,8 @@
           "pinyin": "píngbǎn",
           "audio": "tablet",
           "ja": "タブレット",
-          "romaji": "taburetto"
+          "romaji": "taburetto",
+          "it": "Tablet"
         },
         {
           "eng": "Television",
@@ -445,7 +472,8 @@
           "pinyin": "diànshì",
           "audio": "television",
           "ja": "テレビ",
-          "romaji": "terebi"
+          "romaji": "terebi",
+          "it": "Televisione"
         },
         {
           "eng": "Remote",
@@ -454,7 +482,8 @@
           "pinyin": "yáokòngqì",
           "audio": "remote",
           "ja": "リモコン",
-          "romaji": "rimokon"
+          "romaji": "rimokon",
+          "it": "Telecomando"
         },
         {
           "eng": "Speaker",
@@ -463,7 +492,8 @@
           "pinyin": "yángshēngqì",
           "audio": "speaker",
           "ja": "スピーカー",
-          "romaji": "supīkā"
+          "romaji": "supīkā",
+          "it": "Altoparlante"
         },
         {
           "eng": "Headphones",
@@ -472,7 +502,8 @@
           "pinyin": "ěrjī",
           "audio": "headphones",
           "ja": "ヘッドフォン",
-          "romaji": "heddofon"
+          "romaji": "heddofon",
+          "it": "Cuffie"
         },
         {
           "eng": "Microphone",
@@ -481,7 +512,8 @@
           "pinyin": "màikèfēng",
           "audio": "microphone",
           "ja": "マイク",
-          "romaji": "maiku"
+          "romaji": "maiku",
+          "it": "Microfono"
         },
         {
           "eng": "Charger",
@@ -490,7 +522,8 @@
           "pinyin": "chōngdiànqì",
           "audio": "charger",
           "ja": "充電器",
-          "romaji": "chōdenki"
+          "romaji": "chōdenki",
+          "it": "Caricabatterie"
         },
         {
           "eng": "Battery",
@@ -499,7 +532,8 @@
           "pinyin": "diànchí",
           "audio": "battery",
           "ja": "バッテリー",
-          "romaji": "batterī"
+          "romaji": "batterī",
+          "it": "Batteria"
         },
         {
           "eng": "Cable",
@@ -508,7 +542,8 @@
           "pinyin": "diànlǎn",
           "audio": "cable",
           "ja": "ケーブル",
-          "romaji": "kēburu"
+          "romaji": "kēburu",
+          "it": "Cavo"
         },
         {
           "eng": "USB",
@@ -517,7 +552,8 @@
           "pinyin": "USB",
           "audio": "usb",
           "ja": "USB",
-          "romaji": "USB"
+          "romaji": "USB",
+          "it": "USB"
         },
         {
           "eng": "Monitor",
@@ -526,7 +562,8 @@
           "pinyin": "xiǎnshìqì",
           "audio": "monitor",
           "ja": "モニター",
-          "romaji": "monitā"
+          "romaji": "monitā",
+          "it": "Monitor"
         },
         {
           "eng": "Keyboard",
@@ -535,7 +572,8 @@
           "pinyin": "jiànpán",
           "audio": "keyboard",
           "ja": "キーボード",
-          "romaji": "kībōdo"
+          "romaji": "kībōdo",
+          "it": "Tastiera"
         },
         {
           "eng": "Mouse",
@@ -544,7 +582,8 @@
           "pinyin": "shǔbiāo",
           "audio": "mouse",
           "ja": "マウス",
-          "romaji": "mausu"
+          "romaji": "mausu",
+          "it": "Mouse"
         },
         {
           "eng": "Camera",
@@ -553,7 +592,8 @@
           "pinyin": "xiàngjī",
           "audio": "camera",
           "ja": "カメラ",
-          "romaji": "kamera"
+          "romaji": "kamera",
+          "it": "Fotocamera"
         },
         {
           "eng": "Game Console",
@@ -562,7 +602,8 @@
           "pinyin": "yóuxìjī",
           "audio": "game_console",
           "ja": "ゲーム機",
-          "romaji": "gēmu ki"
+          "romaji": "gēmu ki",
+          "it": "Console da gioco"
         },
         {
           "eng": "Smartwatch",
@@ -571,10 +612,12 @@
           "pinyin": "zhìnéng shǒubiǎo",
           "audio": "smartwatch",
           "ja": "スマートウォッチ",
-          "romaji": "sumātoocchi"
+          "romaji": "sumātoocchi",
+          "it": "Smartwatch"
         }
       ]
     }
   ]
 }
+
 
