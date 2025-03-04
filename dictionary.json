@@ -369,7 +369,195 @@
           "audio": "relative"
         }
       ]
+    },
+    {
+      "name": "Electronics",
+      "words": [
+        {
+          "eng": "Phone",
+          "fr": "Téléphone",
+          "zh": "电话",
+          "pinyin": "diànhuà",
+          "audio": "phone",
+          "ja": "電話",
+          "romaji": "denwa"
+        },
+        {
+          "eng": "Smartphone",
+          "fr": "Smartphone",
+          "zh": "智能手机",
+          "pinyin": "zhìnéng shǒujī",
+          "audio": "smartphone",
+          "ja": "スマートフォン",
+          "romaji": "sumātofon"
+        },
+        {
+          "eng": "Computer",
+          "fr": "Ordinateur",
+          "zh": "电脑",
+          "pinyin": "diànnǎo",
+          "audio": "computer",
+          "ja": "コンピュータ",
+          "romaji": "konpyūta"
+        },
+        {
+          "eng": "Laptop",
+          "fr": "Portable",
+          "zh": "笔记本电脑",
+          "pinyin": "bǐjìběn diànnǎo",
+          "audio": "laptop",
+          "ja": "ノートパソコン",
+          "romaji": "nōto pasokon"
+        },
+        {
+          "eng": "Tablet",
+          "fr": "Tablette",
+          "zh": "平板",
+          "pinyin": "píngbǎn",
+          "audio": "tablet",
+          "ja": "タブレット",
+          "romaji": "taburetto"
+        },
+        {
+          "eng": "Television",
+          "fr": "Télévision",
+          "zh": "电视",
+          "pinyin": "diànshì",
+          "audio": "television",
+          "ja": "テレビ",
+          "romaji": "terebi"
+        },
+        {
+          "eng": "Remote",
+          "fr": "Télécommande",
+          "zh": "遥控器",
+          "pinyin": "yáokòngqì",
+          "audio": "remote",
+          "ja": "リモコン",
+          "romaji": "rimokon"
+        },
+        {
+          "eng": "Speaker",
+          "fr": "Haut-parleur",
+          "zh": "扬声器",
+          "pinyin": "yángshēngqì",
+          "audio": "speaker",
+          "ja": "スピーカー",
+          "romaji": "supīkā"
+        },
+        {
+          "eng": "Headphones",
+          "fr": "Casque",
+          "zh": "耳机",
+          "pinyin": "ěrjī",
+          "audio": "headphones",
+          "ja": "ヘッドフォン",
+          "romaji": "heddofon"
+        },
+        {
+          "eng": "Microphone",
+          "fr": "Microphone",
+          "zh": "麦克风",
+          "pinyin": "màikèfēng",
+          "audio": "microphone",
+          "ja": "マイク",
+          "romaji": "maiku"
+        },
+        {
+          "eng": "Charger",
+          "fr": "Chargeur",
+          "zh": "充电器",
+          "pinyin": "chōngdiànqì",
+          "audio": "charger",
+          "ja": "充電器",
+          "romaji": "chōdenki"
+        },
+        {
+          "eng": "Battery",
+          "fr": "Batterie",
+          "zh": "电池",
+          "pinyin": "diànchí",
+          "audio": "battery",
+          "ja": "バッテリー",
+          "romaji": "batterī"
+        },
+        {
+          "eng": "Cable",
+          "fr": "Câble",
+          "zh": "电缆",
+          "pinyin": "diànlǎn",
+          "audio": "cable",
+          "ja": "ケーブル",
+          "romaji": "kēburu"
+        },
+        {
+          "eng": "USB",
+          "fr": "USB",
+          "zh": "USB",
+          "pinyin": "USB",
+          "audio": "usb",
+          "ja": "USB",
+          "romaji": "USB"
+        },
+        {
+          "eng": "Monitor",
+          "fr": "Écran",
+          "zh": "显示器",
+          "pinyin": "xiǎnshìqì",
+          "audio": "monitor",
+          "ja": "モニター",
+          "romaji": "monitā"
+        },
+        {
+          "eng": "Keyboard",
+          "fr": "Clavier",
+          "zh": "键盘",
+          "pinyin": "jiànpán",
+          "audio": "keyboard",
+          "ja": "キーボード",
+          "romaji": "kībōdo"
+        },
+        {
+          "eng": "Mouse",
+          "fr": "Souris",
+          "zh": "鼠标",
+          "pinyin": "shǔbiāo",
+          "audio": "mouse",
+          "ja": "マウス",
+          "romaji": "mausu"
+        },
+        {
+          "eng": "Camera",
+          "fr": "Appareil photo",
+          "zh": "相机",
+          "pinyin": "xiàngjī",
+          "audio": "camera",
+          "ja": "カメラ",
+          "romaji": "kamera"
+        },
+        {
+          "eng": "Game Console",
+          "fr": "Console de jeu",
+          "zh": "游戏机",
+          "pinyin": "yóuxìjī",
+          "audio": "game_console",
+          "ja": "ゲーム機",
+          "romaji": "gēmu ki"
+        },
+        {
+          "eng": "Smartwatch",
+          "fr": "Montre connectée",
+          "zh": "智能手表",
+          "pinyin": "zhìnéng shǒubiǎo",
+          "audio": "smartwatch",
+          "ja": "スマートウォッチ",
+          "romaji": "sumātoocchi"
+        }
+      ]
     }
+  ]
+}
+
   ]
 }
 
