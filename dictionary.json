@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "name": "Household Items",
+      "name": "Maison/Household Items",
       "words": [
         {
           "eng": "Kettle",
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "name": "Family",
+      "name": "Famille/Family",
       "words": [
         {
           "eng": "Father",
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "name": "Electronics",
+      "name": "Electronique/Electronics",
       "words": [
         {
           "eng": "Phone",
